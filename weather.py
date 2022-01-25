@@ -1,10 +1,3 @@
-#! /usr/bin/env python3
-#Ran Thawonmas, 2600180396-3, Distributed Systems Project
-
-#How to run
-#cd Desktop/DSProject >> python3 -m http.server --cgi 8000 using your Terminal
-#http://localhost:8000/cgi-bin/weather.py using your browser
-
 import datetime
 import requests
 import json

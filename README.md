@@ -7,6 +7,6 @@ The mp4 file shows how the program works.
 
 Regarding how to run it, please
 
-(1) run python -m http.server --cgi 8000 using your terminal
+(1) run python -m http.server --cgi 8000 using your terminal and
 
 (2) open the http://localhost:8000/cgi-bin/weather.py link using your browser. 

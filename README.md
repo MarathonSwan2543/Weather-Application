@@ -5,6 +5,8 @@ Note that it might be better to put the Python file into another folder, which s
 
 The mp4 file shows how the program works. 
 
+**Important Notes**
+
 Regarding how to run it, please
 
 (1) run "python -m http.server --cgi 8000" using your terminal and

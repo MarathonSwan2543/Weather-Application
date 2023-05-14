@@ -1,5 +1,5 @@
 # Weather-Application
-For one of the classes I took when I was in Year 3, I had to make a web application using an API known as OpenWeatherMap. 
+This is  web application that uses an API known as OpenWeatherMap. 
 
 Note that it might be better to put the Python file into another folder, which should be named "cgi-bin". 
 

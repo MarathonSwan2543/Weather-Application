@@ -1,5 +1,5 @@
 # Weather-Application
-This is  web application that uses an API known as OpenWeatherMap. 
+This is a web application that uses an API known as OpenWeatherMap. 
 
 Note that it might be better to put the Python file into another folder, which should be named "cgi-bin". 
 
